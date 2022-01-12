@@ -1,4 +1,4 @@
-function colorizeElement() {
+const colorizeElement = (node) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
